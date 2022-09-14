@@ -1,0 +1,182 @@
+@media screen and (max-width: 576px){
+	header .nav ul li{
+		display: block!important;
+		text-align: center;
+		margin: 0px;
+		margin-top: 5px;
+
+	}
+	header .nav{
+		margin-top: 10px;
+	}
+	
+	header .language_login{
+		display: block!important;
+	}
+	header .language_nav .language_image{
+		margin-right: 0px!important;
+
+	}
+	header .language_nav, header .basic_login{
+		text-align: center;
+		margin-top: 10px;
+        display: block!important;
+        margin-right: 0px!important;
+	}
+	
+	header .sign_up{
+		width: 130px;
+    	padding: 17px 33px 16px 33px;
+	}
+
+}
+
+@media screen and (max-width: 768px){
+	header .logo{
+		text-align: center;
+		
+	}
+	header .language_login{
+        justify-content: center!important;
+	 }
+	 
+	 header .nav{
+	 	text-align: center;
+
+	 }
+	 header .header_text h1{
+		font-size: 44px;
+
+	}
+	header .header_text p{
+		font-size: 18px;
+	}
+	header .nav ul li a{
+	 	font-size: 14px!important;
+	}
+	.content .mr-r{
+		margin-right: 0px;
+
+	}
+	.content .block-image .play-button{
+	 	margin-left: 0!important;
+	 	
+	}
+	.focus .focus-content{
+		margin-bottom: 10%;
+	}
+	.contact .centering{
+		justify-content: center;
+		display: flex;
+
+	}
+	.contact .contact-text{
+		text-align: center;
+		padding-right: 0px;
+		padding-bottom: 10%;
+
+	}
+	.focus .focus-content{
+		padding-right: 0px;
+	}
+	.focus .icon{
+		text-align: center;
+	}
+	footer .address, footer .services, footer .get-in-touch, footer .we-support{
+		text-align: center;
+	} 
+	footer .get-in-touch .social-networks{
+		
+		text-align: center;
+	}
+	footer .address p, footer .services p, footer .get-in-touch .email, 
+	footer .get-in-touch .social-networks, footer .we-support a img{
+		margin-top: 0px;
+
+	}
+	footer .centering{
+		display: flex;
+		justify-content: center;
+	}
+	footer .address, footer .services, footer .get-in-touch{
+		margin-bottom: 7%;
+
+	}
+	footer .rights{
+		margin-top: 15%;
+		text-align: center;
+	}
+
+
+
+}
+@media screen and (max-width: 992px){
+	 header .logo{
+		text-align: center;
+		
+	 }
+	 header .nav{
+	 	text-align: center;
+
+	 }
+	 header .nav ul li a{
+	 	font-size: 18px;
+	 }
+	 header .logo img{
+	 	height: 40px;
+	 }
+	 header .language_login{
+        justify-content: center!important;
+	 }
+	 .content .block-image .play-button{
+	 	margin-left: -7%;
+
+	 }
+	 .contact .guestionnaire .first-name{
+	padding: 21px 50px 20px 31px!important;
+	
+     }
+     .contact .guestionnaire .last-name{
+	padding: 21px 50px 20px 31px!important;
+	 }
+	 .contact .guestionnaire .number{
+	padding: 21px 207px 20px 31px!important;
+    }
+    .contact .guestionnaire .service .service-text{
+	margin-right: 57%!important;
+	}
+	 
+	 
+}
+@media screen and (max-width: 1200px){
+	
+	 header .nav ul li a{
+	 	margin-right: 15px;
+	 }
+	 header .language_nav{
+	 	margin-right: 20px!important;
+	 }
+	 .contact .guestionnaire .first-name{
+	 	margin-bottom: 2%;
+
+	 }
+     .contact .guestionnaire .service{
+     	margin-top: 2%;
+     }
+     .contact .guestionnaire .first-name{
+	padding: 21px 110px 20px 31px;
+	
+     }
+     .contact .guestionnaire .last-name{
+	padding: 21px 110px 20px 31px;
+	 }
+	 .contact .guestionnaire .number{
+	padding: 21px 328px 20px 31px;
+     }
+     .contact .guestionnaire .service .service-text{
+     	margin-right: 70%;
+
+     }
+}
+
+
